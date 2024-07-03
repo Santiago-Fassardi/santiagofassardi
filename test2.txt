@@ -1,1 +1,3 @@
 typing something else in this test2 file boiiii
+
+ok this is going to be so much easier since we did git init steps
